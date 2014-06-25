@@ -5,7 +5,7 @@
    "name": "Country Injuries",
    "children": [
     {
-     "name": "Injuries",
+     "name": " Country Injuries",
      "children": [
       {"name": "Brazil", "size": 17},
       {"name": "Chile", "size": 16},
@@ -38,6 +38,11 @@
       {"name": "Portugal", "size": 4},
       {"name": "Netherlands", "size": 4},
       {"name": "Bosnia and Herzegovina", "size": 2}
+     ]
+    }
+     {
+     "name": "",
+     "children": [
      ]
     }
    ]
