@@ -1,0 +1,82 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Country Injuries",
+   "children": [
+    {
+     "name": "Injuries",
+     "children": [
+      {"name": "Brazil", "size": 17},
+      {"name": "Chile", "size": 16},
+      {"name": "Honduras", "size": 15},
+      {"name": "Nigeria", "size": 15},
+      {"name": "Mexico", "size": 15},
+      {"name": "Costa Rica", "size": 13},
+      {"name": "Ecuador", "size": 12},
+      {"name": "France", "size": 10},
+      {"name": "South Korea", "size": 10},
+      {"name": "Algeria", "size": 10},
+      {"name": "Iran", "size": 9},
+      {"name": "Russia", "size": 9},
+      {"name": "Cote d'Ivoire", "size": 9},
+      {"name": "Croatia", "size": 9},
+      {"name": "Colombia", "size": 9},
+      {"name": "Uruguay", "size": 9},
+      {"name": "Greece", "size": 9},
+      {"name": "Cameroon", "size": 8},
+      {"name": "Germany", "size": 8},
+      {"name": "Spain", "size": 8},
+      {"name": "Belgium", "size": 7},
+      {"name": "Japan", "size": 7},
+      {"name": "Italy", "size": 7},
+      {"name": "Switzerland", "size": 7},
+      {"name": "England", "size": 7},
+      {"name": "Argentina", "size": 6},
+      {"name": "Ghana", "size": 6},
+      {"name": "Australia", "size": 6},
+      {"name": "Portugal", "size": 4},
+      {"name": "Netherlands", "size": 4},
+      {"name": "Bosnia and Herzegovina", "size": 2}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Country Writhing Time (in seconds)",
+   "children": [
+      {"name": "Brazil", "size": 198},
+      {"name": "Chile", "size": 418},
+      {"name": "Honduras", "size": 460},
+      {"name": "Nigeria", "size": 385},
+      {"name": "Mexico", "size": 238},
+      {"name": "Costa Rica", "size": 228},
+      {"name": "Ecuador", "size": 384},
+      {"name": "France", "size": 273},
+      {"name": "South Korea", "size": 439},
+      {"name": "Algeria", "size": 271},
+      {"name": "Iran", "size": 243},
+      {"name": "Russia", "size": 326},
+      {"name": "Cote d'Ivoire", "size": 278},
+      {"name": "Croatia", "size": 259},
+      {"name": "Colombia", "size": 249},
+      {"name": "Uruguay", "size": 247},
+      {"name": "Greece", "size": 159},
+      {"name": "Cameroon", "size": 189},
+      {"name": "Germany", "size": 118},
+      {"name": "Spain", "size": 109},
+      {"name": "Belgium", "size": 203},
+      {"name": "Japan", "size": 125},
+      {"name": "Italy", "size": 96},
+      {"name": "Switzerland", "size": 81},
+      {"name": "England", "size": 188},
+      {"name": "Argentina", "size": 168},
+      {"name": "Ghana", "size": 111},
+      {"name": "Australia", "size": 110},
+      {"name": "Portugal", "size": 109},
+      {"name": "Netherlands", "size": 99},
+      {"name": "Bosnia and Herzegovina", "size": 24}
+   ]
+  }
+   ]
+  }
